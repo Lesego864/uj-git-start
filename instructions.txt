@@ -1,0 +1,8 @@
+1. Create a local repository called uj-git-start
+2. Add two files to it.
+3. Commit the two files into repo
+4. Let's create a branch called say hello
+5. Lets change into branch
+6. And create a file in the branch
+7. Add and commit to the branch 
+8. merge the branch into main
